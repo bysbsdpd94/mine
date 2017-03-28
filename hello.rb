@@ -1,10 +1,2 @@
-student={
-    name:"KIM",
-    age:21,
-    college:"seoul"
-}
-
-puts student
-puts student[:name]
-puts student[:age]
-puts student[:college]
+arr_num=[4,2]
+puts arr_num.sort
